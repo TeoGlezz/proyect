@@ -1,0 +1,22 @@
+
+/*
+   Multicoloured Hover Variations
+*/
+footer{
+    background: #77cc6d;
+    margin: 0;
+    background-color: #77cc6d;
+    font-family: 'Raleway Dots', sans-serif;
+}
+#social-fb:hover {
+    color: #3B5998;
+}
+#social-tw:hover {
+    color: #4099FF;
+}
+#social-gp:hover {
+    color: #d34836;
+}
+#social-em:hover {
+    color: #f39c12;
+}
